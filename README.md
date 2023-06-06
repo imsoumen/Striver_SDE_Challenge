@@ -5,5 +5,5 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 ## `Table of Contents 📋`
 | SNo. | **Day** | **Topic/Question** | **Link**
 | ---  | ---------    | ---------
-| 1.   | [Day-1] | [Sort 0 1 2](Day1/Sort012.py) | [Question]([https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055]
+| 1.   | [Day-1] | [Sort 0 1 2](Day1/Sort012.py) | [Question]([https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055])
 | 2.   |  |
