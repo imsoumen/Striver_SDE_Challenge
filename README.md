@@ -5,5 +5,5 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 ## `Table of Contents 📋`
 | SNo. | **Day** | **Topic/Question**
 | ---  | ---------    | ---------
-| 1.   | [Day-1] | [Test](https://github.com/imsoumen/Striver_SDE_Challenge/blob/main/README.md)
+| 1.   | [Day-1] | [Sort 0 1 2](Day1/Sort012.py)
 | 2.   |  |
