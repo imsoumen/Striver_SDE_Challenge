@@ -8,3 +8,5 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 | 1.   | Arrays | [Sort 0 1 2](Arrays/Sort012.py) | [Question](https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055)
 | 2.   | Arrays | [Set Matrix Zeroes](Arrays/SetMatrixZeroes.py) | [Question](https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_3846774)
 | 3.   | Arrays | [Reverse Pairs](Arrays/ReversePairs.py) | [Question](https://www.codingninjas.com/codestudio/problems/reverse-pairs_1112652)
+| 4.   | Arrays | [Pascal's Triangle](Arrays/PascalsTriangle.py) | [Question](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580)
+
