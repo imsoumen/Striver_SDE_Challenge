@@ -11,8 +11,9 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 | 4.   | Arrays | [Pascal's Triangle](Arrays/PascalsTriangle.py) | [Question](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580)
 | 5.   | Arrays | [Rotate Matrix](Arrays/RotateMatrix.py) | [Question](https://www.codingninjas.com/codestudio/problems/rotate-matrix_981260)
 | 6.   | Arrays | [Find Duplicate in Array](Arrays/FindDuplicateInArray.py) | [Question](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602)
-| 7.   | Arrays | [Next Permutation](Arrays/nextPermutation.py) | [Question](https://www.codingninjas.com/codestudio/problems/next-permutaion_893046?)
-| 8.   | Linked List | [Reverse Nodes in K Groups](Arrays/ReverseNodesinKGroup.py) | [Question](https://www.codingninjas.com/codestudio/problems/reverse-blocks_763406)
-#| 4.   | Arrays | [Pascal's Triangle](Arrays/PascalsTriangle.py) | [Question](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580)
+| 7.   | Arrays | [Next Permutation](Arrays/nextPermutation.py) | [Question](https://www.codingninjas.com/codestudio/problems/next-permutaion_893046)
+| 8.   | Arrays | [Best Time to Buy and Sell Stocks](Arrays/bestTimeToBuyAndSellStock.py) | [Question](https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405)
+| 1.   | Linked List | [Reverse Nodes in K Groups](Linked List/ReverseNodesinKGroup.py) | [Question](https://www.codingninjas.com/codestudio/problems/reverse-blocks_763406)
+| 1.   | Recursion | [Print All Permutation od String](Recursion/printAllPermutationsOfString.py) | [Question](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?)
 #| 4.   | Arrays | [Pascal's Triangle](Arrays/PascalsTriangle.py) | [Question](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580)
 
