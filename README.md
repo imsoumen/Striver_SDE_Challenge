@@ -19,6 +19,7 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 | 12.   | Arrays | [Maximum Subarray Sum](Arrays/maximumSubarraySum.py) | [Question](https://www.codingninjas.com/codestudio/problems/maximum-subarray-sum_630526)
 | 13.   | Arrays | [Merge Two Sorted Arrays](Arrays/mergeTwoSortedArrays.py) | [Question](https://www.codingninjas.com/codestudio/problems/ninja-and-sorted-arrays_1214628)
 | 14.   | Arrays | [Majority Element](Arrays/majorityElement.py) | [Question](https://www.codingninjas.com/codestudio/problems/majority-element_842495)
+| 15.   | Arrays | [Pair Sum](Arrays/pairSum.py) | [Question](https://www.codingninjas.com/codestudio/problems/pair-sum_697295)
 | 1.   | Linked List | [Reverse Nodes in K Groups](Linked_List/ReverseNodesinKGroup.py) | [Question](https://www.codingninjas.com/codestudio/problems/reverse-blocks_763406)
 | 1.   | Recursion | [Print All Permutation of String](Recursion/printAllPermutationsOfString.py) | [Question](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?)
 #| 4.   | Arrays | [Pascal's Triangle](Arrays/PascalsTriangle.py) | [Question](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580)
