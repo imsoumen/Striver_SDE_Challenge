@@ -15,6 +15,7 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 | 8.   | Arrays | [Best Time to Buy and Sell Stocks](Arrays/bestTimeToBuyAndSellStock.py) | [Question](https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405)
 | 9.   | Arrays | [Merge Intervals](Arrays/mergeIntervals.py) | [Question](https://www.codingninjas.com/codestudio/problems/merge-intervals_699917)
 | 10.   | Arrays | [Majority Elements 2](Arrays/majorityElements2.py) | [Question](https://www.codingninjas.com/codestudio/problems/majority-element-ii_893027)
+| 11.   | Arrays | [Search In A 2D Matrix](Arrays/searchInA2DMatrix.py) | [Question](https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_980531)
 | 1.   | Linked List | [Reverse Nodes in K Groups](Linked_List/ReverseNodesinKGroup.py) | [Question](https://www.codingninjas.com/codestudio/problems/reverse-blocks_763406)
 | 1.   | Recursion | [Print All Permutation od String](Recursion/printAllPermutationsOfString.py) | [Question](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?)
 #| 4.   | Arrays | [Pascal's Triangle](Arrays/PascalsTriangle.py) | [Question](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580)
