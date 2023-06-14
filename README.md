@@ -16,7 +16,9 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 | 9.   | Arrays | [Merge Intervals](Arrays/mergeIntervals.py) | [Question](https://www.codingninjas.com/codestudio/problems/merge-intervals_699917)
 | 10.   | Arrays | [Majority Elements 2](Arrays/majorityElements2.py) | [Question](https://www.codingninjas.com/codestudio/problems/majority-element-ii_893027)
 | 11.   | Arrays | [Search In A 2D Matrix](Arrays/searchInA2DMatrix.py) | [Question](https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_980531)
+| 12.   | Arrays | [Maximum Subarray Sum](Arrays/maximumSubarraySum.py) | [Question](https://www.codingninjas.com/codestudio/problems/maximum-subarray-sum_630526)
+| 13.   | Arrays | [Merge Two Sorted Arrays](Arrays/mergeTwoSortedArrays.py) | [Question](https://www.codingninjas.com/codestudio/problems/ninja-and-sorted-arrays_1214628)
 | 1.   | Linked List | [Reverse Nodes in K Groups](Linked_List/ReverseNodesinKGroup.py) | [Question](https://www.codingninjas.com/codestudio/problems/reverse-blocks_763406)
-| 1.   | Recursion | [Print All Permutation od String](Recursion/printAllPermutationsOfString.py) | [Question](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?)
+| 1.   | Recursion | [Print All Permutation of String](Recursion/printAllPermutationsOfString.py) | [Question](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?)
 #| 4.   | Arrays | [Pascal's Triangle](Arrays/PascalsTriangle.py) | [Question](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580)
 
