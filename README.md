@@ -21,7 +21,7 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 | 14.   | Arrays | [Majority Element](Arrays/majorityElement.py) | [Question](https://www.codingninjas.com/codestudio/problems/majority-element_842495)
 | 15.   | Arrays | [Pair Sum](Arrays/pairSum.py) | [Question](https://www.codingninjas.com/codestudio/problems/pair-sum_697295)
 | 16.   | Arrays | [Missing and Repeating Numbers](Arrays/missingAndRepeatingNumbers.py) | [Question](https://www.codingninjas.com/codestudio/problems/873366)
-| 17.   | Arrays | [Majority Elements 2](Arrays/majorityElements2.py) | [Question](https://www.codingninjas.com/codestudio/problems/majority-element-ii_893027)
+| 17.   | Arrays | [Majority Elements 2](Arrays/majorityElements2.py) | [Question]()
 | 18.   | Arrays | [Unique Paths](Arrays/uniquePaths.py) | [Question](https://www.codingninjas.com/codestudio/problems/1081470)
 | 19.   | Arrays | [Find Four Elements that Sums to a Given Value](Arrays/findFourElementsThatSums.py) | [Question](https://www.codingninjas.com/codestudio/problems/find-four-elements-that-sums-to-a-given-value_983605)
 | 20.   | Arrays | [Longest Consecutive Sequence](Arrays/longestConsecutiveSequence.py) | [Question](https://www.codingninjas.com/studio/problems/longest-consecutive-sequence_8230708)
@@ -29,6 +29,6 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 | 1.   | Sorting | [Count Inversions](Sorting/countInversions.py) | [Question](https://www.codingninjas.com/codestudio/problems/count-inversions_615)
 | 1.   | Linked List | [Reverse Nodes in K Groups](Linked_List/ReverseNodesinKGroup.py) | [Question](https://www.codingninjas.com/codestudio/problems/reverse-blocks_763406)
 | 2.   | Linked List | [Add Two Numbers](Linked_List/addTwoNumbers.py) | [Question](https://www.codingninjas.com/codestudio/problems/add-two-numbers-as-linked-lists_1170520)
-| 1.   | Recursion | [Print All Permutation of String](Recursion/printAllPermutationsOfString.py) | [Question](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?)
+| 1.   | Recursion | [Print All Permutation of String](Recursion/printAllPermutationsOfString.py) | [Question](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958)
 | 1.   | Bit Manipulation | [Modular Exponentiation](Bit_Manipulation/modularExponentiation.py) | [Question](https://www.codingninjas.com/codestudio/problems/modular-exponentiation_1082146)
 
