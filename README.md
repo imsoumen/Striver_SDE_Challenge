@@ -31,4 +31,5 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 | 2.   | Linked List | [Add Two Numbers](Linked_List/addTwoNumbers.py) | [Question](https://www.codingninjas.com/codestudio/problems/add-two-numbers-as-linked-lists_1170520)
 | 1.   | Recursion | [Print All Permutation of String](Recursion/printAllPermutationsOfString.py) | [Question](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958)
 | 1.   | Bit Manipulation | [Modular Exponentiation](Bit_Manipulation/modularExponentiation.py) | [Question](https://www.codingninjas.com/codestudio/problems/modular-exponentiation_1082146)
+| 1.   | Back Tracking | [N Queens](Back_Tracking/nQueens.py) | [Question](https://www.codingninjas.com/codestudio/problems/n-queens_759332)
 
