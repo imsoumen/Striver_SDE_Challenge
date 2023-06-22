@@ -32,4 +32,6 @@ This public repo is for all the submissions made for Striver's SDE Challenge 202
 | 1.   | Recursion | [Print All Permutation of String](Recursion/printAllPermutationsOfString.py) | [Question](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958)
 | 1.   | Bit Manipulation | [Modular Exponentiation](Bit_Manipulation/modularExponentiation.py) | [Question](https://www.codingninjas.com/codestudio/problems/modular-exponentiation_1082146)
 | 1.   | Back Tracking | [N Queens](Back_Tracking/nQueens.py) | [Question](https://www.codingninjas.com/codestudio/problems/n-queens_759332)
+| 1.   | Trie | [Implement Trie](Trie/implementTrie.py) | [Question](https://www.codingninjas.com/codestudio/problems/implement-trie_631356)
+| 2.   | Trie | [Implement Trie 2](Trie/implementTrie2.py) | [Question](https://www.codingninjas.com/codestudio/problems/implement-trie_1387095)
 
